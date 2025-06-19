@@ -42,6 +42,10 @@ For commercial use:
 - A license agreement is required. 
 - See the [license](LICENSE) for more details and contact the author [Weinan Guan](mailto:weinanguan@cuhk.edu.cn) and [Wei Wang](mailto:wwang@nlpr.ia.ac.cn).
 
+
+## Acknowledgements
+This repository is based on **Swin-Transformer** ([paper](https://arxiv.org/pdf/2103.14030), [code](https://github.com/microsoft/Swin-Transformer))
+
 ## Citation
 If you find our work useful for your research, please consider citing our paper:
 
