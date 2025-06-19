@@ -18,8 +18,11 @@
 We provide [the weight](https://drive.google.com/file/d/1zC85n8E41VfdkfdO53aYzuboFwB9ntDc/view?usp=sharing) of our NASA-Swin-Base trained on **GenImage Dataset**.
 
 ## Installation
-
-Pleaser refer to [the requirments.txt](requirements.txt)
+```
+conda create -n NASA python==3.10.9
+conda activate NASA
+```
+Pleaser refer to [the requirments.txt](requirements.txt) to prepare your environment.
 
 ## Inference
 
@@ -34,6 +37,7 @@ CUDA_VISIBLE_DEVICES=0[gpu_id] python inference_dataset.py \
 
 ## License
 Our code and pretrained model are freely available for research purpose.
+
 For commercial use: 
 - A license agreement is required. 
 - See the [license](LICENSE) for more details and contact the author [Weinan Guan](mailto:weinanguan@cuhk.edu.cn) and [Wei Wang](mailto:wwang@nlpr.ia.ac.cn).
