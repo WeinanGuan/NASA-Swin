@@ -3,6 +3,8 @@
 **Official Pytorch Implementation of the Paper:**
 
 > [Noise-Informed Diffusion-Generated Image Detection With Anomaly Attention](https://ieeexplore.ieee.org/abstract/document/11018089?casa_token=GYs4jsjcvjEAAAAA:2D4VOC8LuuCYYDtjdVOlQ04lx8xKDnTte81qGaQC0_82sv8DqrER_uSEJJzjLkUStniKFx7uOFUo)
+>
+> [arxiv](https://arxiv.org/abs/2506.16743), [code](https://github.com/WeinanGuan/NASA-Swin)
 > 
 > **Weinan Guan, Wei Wang\*, Bo Peng, Ziwen He, Jing Dong, Haonan Cheng**
 > 
